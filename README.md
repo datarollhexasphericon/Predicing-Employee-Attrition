@@ -4,7 +4,7 @@
 
 Employee attrition is a critical issue for organizations, leading to significant costs in terms of hiring, training, and lost productivity. Understanding the factors that contribute to employee turnover can help businesses develop strategies to retain valuable employees, thus saving resources and maintaining a stable workforce.
 
-This project aims to explore and analyze the factors related to employee attrition using a fictional dataset created by IBM data scientists. By leveraging data analytics and machine learning techniques, we seek to identify key drivers of employee turnover and provide insights that can aid in decision-making processes to reduce attrition rates.
+This project aims to explore and analyze the factors related to employee attrition using a fictional dataset created by IBM data scientists. By leveraging data analytics and machine learning techniques, I seek to identify key drivers of employee turnover and provide insights that can aid in decision-making processes to reduce attrition rates.
 
 ## Dataset
 
