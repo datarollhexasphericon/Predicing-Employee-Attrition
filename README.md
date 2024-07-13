@@ -16,23 +16,20 @@ The dataset used in this project is sourced from Kaggle and can be found [here](
     - Overview of the problem statement and business case for understanding employee attrition.
     - Importance of addressing employee turnover and its associated costs.
 
-2. **Library Imports**
-    - Importing necessary libraries and packages for data analysis and visualization, such as pandas, numpy, seaborn, matplotlib, and scikit-learn.
-
-3. **Data Exploration and Cleaning**
+2. **Exploratory data analysis**
     - Initial exploration of dataset features and their data types.
     - Cleaning of duplicates, handling missing values, and removing uninformative features.
     - Exploration of data distribution and normality checks.
 
-4. **Data Analysis**
+3. **Data Analysis**
     - In-depth analysis of various factors affecting employee attrition.
     - Visualization of relationships between different features and attrition rates.
 
-5. **Model Building and Evaluation**
+4. **Model Building and Evaluation**
     - Applying machine learning models to predict employee attrition.
     - Evaluation of model performance using metrics such as accuracy, confusion matrix, and ROC-AUC.
 
-6. **Conclusion**
+5. **Conclusion**
     - Summary of findings and insights derived from the analysis.
     - Recommendations for businesses to mitigate employee attrition.
 
